@@ -27,7 +27,7 @@ namespace DataAccess.Contexts
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=FIX;Database=TestDB;User=sa;Password=b4rb4r0s;");
+                optionsBuilder.UseSqlServer(@"Server=SERVER_NAME;Database=DB_NAME;User=USER;Password=PASSWORD;");
             }
         }
     }

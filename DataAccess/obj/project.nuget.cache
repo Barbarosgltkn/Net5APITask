@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mzXPjRyUiyfzhBQQgGJqKMCLBXYnLMnL3OqU+jNFL0YoJhwzuh9iD1z3o87HcrDBQMj9Qq7E532BaKqFQVb7/w==",
+  "dgSpecHash": "u89uf8F5D0O6ogbbLhF9UuN8p09Nu/eiuJp81NF8jEOfiXrfiTB9TK8DwezKAoVCctUXT+SL4NsQQWtFcpdDIA==",
   "success": true,
-  "projectFilePath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\FIX\\Net5API\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tekni\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\tekni\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

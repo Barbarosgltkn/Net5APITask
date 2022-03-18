@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LVF5e5/ieu1+sk+76vk+v/KO2THpv9gdgj3czgdqguADq6oHbaEOA+qhzLNMl2xReP6Wmpt81XQhHAMMGax8BA==",
+  "dgSpecHash": "Xho/7VqJ8ETOmLd9gH4bE7TzERu1ON9EKGP5sHlOjq7J07v4ZfvLol4BJXQQB4Hx59LosM5BEohUz940X+CVzw==",
   "success": true,
-  "projectFilePath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj",
+  "projectFilePath": "C:\\FIX\\Net5API\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tekni\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\tekni\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

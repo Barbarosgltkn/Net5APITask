@@ -8065,11 +8065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\API\\API.csproj",
+      "projectUniqueName": "C:\\FIX\\Net5API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\API\\API.csproj",
+      "projectPath": "C:\\FIX\\Net5API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\tekni\\.nuget\\packages\\",
-      "outputPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\API\\obj\\",
+      "outputPath": "C:\\FIX\\Net5API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tekni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8086,14 +8086,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Business\\Business.csproj": {
-              "projectPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Business\\Business.csproj"
+            "C:\\FIX\\Net5API\\Business\\Business.csproj": {
+              "projectPath": "C:\\FIX\\Net5API\\Business\\Business.csproj"
             },
-            "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj": {
-              "projectPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj"
+            "C:\\FIX\\Net5API\\Core\\Core.csproj": {
+              "projectPath": "C:\\FIX\\Net5API\\Core\\Core.csproj"
             },
-            "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\DataAccess\\DataAccess.csproj"
+            "C:\\FIX\\Net5API\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\FIX\\Net5API\\DataAccess\\DataAccess.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj": {}
+    "C:\\FIX\\Net5API\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj": {
+    "C:\\FIX\\Net5API\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\FIX\\Net5API\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\Core.csproj",
+        "projectPath": "C:\\FIX\\Net5API\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\tekni\\.nuget\\packages\\",
-        "outputPath": "D:\\Arşiv\\15.03.2022 Ydk\\fix\\Net5API\\Core\\obj\\",
+        "outputPath": "C:\\FIX\\Net5API\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tekni\\AppData\\Roaming\\NuGet\\NuGet.Config",
